@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development and Programming Languages
 - 🌱 I’m currently learning Frontend Development 
 - 💞️ I’m looking to collaborate on Open source or GSOc 
-- 📫 My E.mail Id : vishalkumar438455@gmail.com | 6397438455 | LinkedIn : https://www.linkedin.com/in/vishal-kumar-8043b5302/
+- 📫 My E.mail Id : vishalkumar438455@gmail.com | 6397438455
+-  LinkedIn : https://www.linkedin.com/in/vishal-kumar-8043b5302/
+-  Github : https://github.com/Vishal-Kumar2006
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact 
 
